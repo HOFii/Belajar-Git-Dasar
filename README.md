@@ -1,7 +1,8 @@
 GIT DASAR
 1.Poin-Poin Utama:
 
-A.Apa itu Git
+A. Apa itu Git
+
     Git adalah sebuah sistem kontrol versi yang sangat populer dan kuat yang digunakan oleh pengembang perangkat lunak untuk mengelola perubahan dalam kode sumber proyek, Dikembangkan oleh Linus Torvalds pada tahun 2005, Git dirancang untuk menjadi cepat, efisien, dan mudah digunakan, serta mendukung kerja tim yang terdistribusi.
     
 B. Cara kerja Git
