@@ -16,4 +16,5 @@ GIT DASAR
                -Staged artinya menandai modifikasi yang kita lakukan terhadap file dan akan disimpan secara permanen ke Repository.
                -Committed artinya data sudah di simpan kedalam Repository.
    
+   
          
