@@ -7,7 +7,8 @@ GIT DASAR
 
    B. Cara Kerja Git
        a) Cara membuat repository didalam Git
-         1. Cara membuat repository di Git bisa menggunakan Tools seperti GitBash untuk windows, atau terminal MacOs, Cukup gunakan perintah "cd 
+         1. Cara membuat repository di Git bisa menggunakan Tools
+    seperti GitBash untuk windows, atau terminal MacOs, Cukup gunakan perintah "cd 
             /path/to/your/project/directory", gunakan cd(change directory) untuk berpindah directory atau ke tempat anda menyimpan repository Git anda.
          2. Gunakan perintah "git init" untuk menginisialisasi repositori Git baru di direktori saat ini, nanti Git akan secara otomatis membuatkan file baru bernama 
             ".git", sangat dianjurkan untuk tidak mengubah/memodifikasi isi file tersebut.
