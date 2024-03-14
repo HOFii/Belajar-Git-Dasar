@@ -104,8 +104,8 @@ B. Cara kerja Git
         
 3. Pertanyaan dan Catatan Tambahan
 
-a.Saya jarang menggunakan perintah “git reset --mixed”, dikarenakan masih kaku dalam penggunaannya
-apa nanti saat terjun ke project perintah itu sering dipakai?
+a.Saya jarang menggunakan perintah “git reset”, dikarenakan masih kaku dalam penggunaannya dan
+apa nanti saat terjun ke project perintah itu sering dipakai? 
 
 5. Kesimpulan
 
