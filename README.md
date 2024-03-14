@@ -102,10 +102,12 @@ B. Cara kerja Git
         petik dua jika perintahnya terlalu panjang.
         
 3. Pertanyaan dan Catatan Tambahan
+
 a.Saya jarang menggunakan perintah “git reset --mixed”, dikarenakan masih kaku dalam penggunaannya
 apa nanti saat terjun ke project perintah itu sering dipakai?
 
-4. Kesimpulan
+5. Kesimpulan
+
 Penggunaan Git Dalam pengembangan dan management perangkkat lunak sangat penting. Ditambah Git merupakan
 Control Version yang kuat yang dapat melihat dan mencatat perubahan. Sangat penting bagi saya untuk bisa menguasai
 Git sebelum terjun kedalam project sungguhan.
