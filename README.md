@@ -15,6 +15,7 @@ GIT DASAR
                -Modifed artinya menambah, mengedit dan menghapus file. Namun belum disimpan secara permanen ke Repository.
                -Staged artinya menandai modifikasi yang kita lakukan terhadap file dan akan disimpan secara permanen ke Repository.
                -Committed artinya data sudah di simpan kedalam Repository.
+         4. Git memiliki 3 Section yang berbeda: Working Directory, Staging Area dan Repository
    
    
          
