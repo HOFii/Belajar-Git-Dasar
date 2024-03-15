@@ -23,6 +23,8 @@ Repository.
 
 -**Committed** artinya data sudah di simpan kedalam Repository.
 
+---
+
 4. Git memiliki 3 Section yang berbeda: **Working Directory**, **Staging Area/Index** dan **Repository**.
 
 -**Working Directory**, tempat kita melalakukan modifikasi file, bisa menggunakan perintah `git add` untuk pindah dari Working Directory ke Staging Area/Staging Index.
